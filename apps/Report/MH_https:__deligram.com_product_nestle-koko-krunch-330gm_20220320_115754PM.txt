@@ -1,0 +1,150 @@
+======================================================================= 
+Total Spelling or Grammar Problem   :  25
+=======================================================================
+Problem [1] :- Offset 2, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+{'Deligram is an online shop that makes shopping e...
+  ^^^^^^^^
+==========================================================================
+Problem [2] :- Offset 207, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [3] :- Offset 262, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...Help Cancellation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [4] :- Offset 274, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Regan; Telecon; Tetragon
+...ation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [5] :- Offset 342, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2022 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [6] :- Offset 367, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’.
+Suggestion: An
+... Policy © 2022 Deligram Technology Ltd. A affiliated company', 'Deligram is an on...
+                                           ^
+==========================================================================
+Problem [7] :- Offset 391, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...Technology Ltd. A affiliated company', 'Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [8] :- Offset 570, length 4, Rule ID: EN_REPEATEDWORDS_NEED
+Message: This word has been used in one of the immediately preceding sentences. Using a synonym could make your text more interesting to read, unless the repetition is intentional.
+Suggestion: require
+...very or get any after sales service you need! Phone: 01879-474747', 'Help Cancellati...
+                                           ^^^^
+==========================================================================
+Problem [9] :- Offset 647, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...cellation & Returns', 'বাংলা Sign-in', 'Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [10] :- Offset 826, length 4, Rule ID: EN_REPEATEDWORDS_NEED
+Message: This word has been used in one of the immediately preceding sentences. Using a synonym could make your text more interesting to read, unless the repetition is intentional.
+Suggestion: require
+...very or get any after sales service you need! Phone: 01879-474747 Deligram About Hel...
+                                           ^^^^
+==========================================================================
+Problem [11] :- Offset 852, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [12] :- Offset 1005, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...ed an old link. Go back to home page', 'Deligram About', 'বাংলা Sign-in Page not found (...
+                                           ^^^^^^^^
+==========================================================================
+Problem [13] :- Offset 1122, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...lowed an old link. Go back to home page Deligram is an online shop that makes shopping e...
+                                           ^^^^^^^^
+==========================================================================
+Problem [14] :- Offset 1301, length 4, Rule ID: EN_REPEATEDWORDS_NEED
+Message: This word has been used in one of the immediately preceding sentences. Using a synonym could make your text more interesting to read, unless the repetition is intentional.
+Suggestion: require
+...very or get any after sales service you need! Phone: 01879-474747 Deligram About Hel...
+                                           ^^^^
+==========================================================================
+Problem [15] :- Offset 1327, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...s service you need! Phone: 01879-474747 Deligram About Help Cancellation & Returns Payme...
+                                           ^^^^^^^^
+==========================================================================
+Problem [16] :- Offset 1382, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...Help Cancellation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [17] :- Offset 1394, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Regan; Telecon; Tetragon
+...ation & Returns Payment 705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [18] :- Offset 1462, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2022 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [19] :- Offset 1487, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’.
+Suggestion: An
+... Policy © 2022 Deligram Technology Ltd. A affiliated company', '705 Nakhalpara, T...
+                                           ^
+==========================================================================
+Problem [20] :- Offset 1515, length 10, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+...nology Ltd. A affiliated company', '705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term...
+                                           ^^^^^^^^^^
+==========================================================================
+Problem [21] :- Offset 1527, length 7, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Began; Region; Terrain; Regain; Tension; Reagan; Tehran; Legion; Tendon; Megan; Hexagon; Vegan; Texan; Tongan; Bergson; Teflon; Megaton; Tenon; Teuton; Meagan; Taejon; Decagon; Terran; Gurgaon; Jalgaon; Keegan; Regan; Telecon; Tetragon
+...A affiliated company', '705 Nakhalpara, Tejgaon, Dhaka 1215 Return Policy Term of Use P...
+                                           ^^^^^^^
+==========================================================================
+Problem [22] :- Offset 1595, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...olicy Term of Use Privacy Policy © 2022 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [23] :- Offset 1620, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’.
+Suggestion: An
+... Policy © 2022 Deligram Technology Ltd. A affiliated company', '© 2022 Deligram T...
+                                           ^
+==========================================================================
+Problem [24] :- Offset 1651, length 8, Rule ID: MORFOLOGIK_RULE_EN_US
+Message: Possible spelling mistake found.
+Suggestion: Deli gram; Decigram
+...ogy Ltd. A affiliated company', '© 2022 Deligram Technology Ltd. A affiliated company', ...
+                                           ^^^^^^^^
+==========================================================================
+Problem [25] :- Offset 1676, length 1, Rule ID: EN_A_VS_AN
+Message: Use “An” instead of ‘A’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’.
+Suggestion: An
+...pany', '© 2022 Deligram Technology Ltd. A affiliated company', 'Go back to home p...
+                                           ^
+==========================================================================
